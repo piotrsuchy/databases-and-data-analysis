@@ -1,3 +1,4 @@
+# plik pomocniczy
 from sqlalchemy import create_engine
 import psycopg2 as pg
 import pandas as pd
