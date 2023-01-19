@@ -5,32 +5,42 @@ Piotr Suchy 407332
 # Pierwszy test - hello:
 
 ### **Faza RED:**
+
 ![Pierwszy test - fail](images/Fail_1.png)
 
 ### **FAZA GREEN:**
+
 Treść testu:
+
 ![Pierwszy test](images/hello_test.png)
 
 Wynik testu po napisaniu funkcji hello():
+
 ![Pierwszy test - green](images/hello_test_green.png)
 
 ### **FAZA REFACTOR:**
+
 Ponieważ funkcja hello() jest bardzo prymitywna, faza refactor była zbędna w tym przypadku.
 
 
 # Drugi test - Extract Sentiment:
 ### **Faza RED:**
+
 ![Drugi fail](images/Fail_2.png)
 
 ### **FAZA GREEN:**
+
 Treść testu:
+
 ![Drugi test-1](images/sentiment_function.png)
 
 Treść funkcji:
+
 ![Drugi test](images/sentiment_1.png)
 
 
 Wynik testu po napisaniu funkcji extract_sentiment():
+
 ![Pierwszy test - green](images/sentiment_green.png)
 
 ### **FAZA REFACTOR:**
